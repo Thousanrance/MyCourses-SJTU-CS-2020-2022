@@ -36,7 +36,7 @@
 
 2022-2023-1 CS3328 云计算技术 Prof.李超
 
-非压缩包在Gitee同名仓库：https://gitee.com/thousanrance/my-courses-sjtu-cs
+完整的仓库在Gitee：https://gitee.com/thousanrance/my-courses-sjtu-cs
 
 以上资料仅供参考，不保证正确性
 
