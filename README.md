@@ -2,7 +2,7 @@
 
 > 2020-2021-1到2022-2023-1的一些课程的作业和代码
 >
-> 完整的仓库在Gitee：https://gitee.com/thousanrance/my-courses-sjtu-cs，Github这里因为网络原因上传总失败
+> 完整的仓库在Gitee：https://gitee.com/thousanrance/my-courses-sjtu-cs Github这里因为网络原因上传总失败
 
 2020-2021-1 CS1501 程序设计思想与方法（C++） Prof.顾运
 
