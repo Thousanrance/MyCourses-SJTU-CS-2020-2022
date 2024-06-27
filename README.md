@@ -1,6 +1,7 @@
 # MyCourses-SJTU-CS-2020_2022
 
 > 2020-2021-1到2022-2023-1的一些课程的作业和代码
+> 完整的仓库在Gitee：https://gitee.com/thousanrance/my-courses-sjtu-cs，Github这里因为网络原因上传总失败
 
 2020-2021-1 CS1501 程序设计思想与方法（C++） Prof.顾运
 
@@ -35,8 +36,6 @@
 2022-2023-1 CS3317 人工智能 Prof.杨旸
 
 2022-2023-1 CS3328 云计算技术 Prof.李超
-
-完整的仓库在Gitee：https://gitee.com/thousanrance/my-courses-sjtu-cs
 
 以上资料仅供参考，不保证正确性
 
